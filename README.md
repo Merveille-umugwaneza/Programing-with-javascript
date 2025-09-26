@@ -74,6 +74,8 @@ Learning Focus:
 • Conditional logic for analyzing attendance data.
 
 Date 19-09-2025   For the seccond assignment
+
+
 Case Study 1: Rectangle Area Calculator
 Scenario:
 A school wants a simple program to calculate the area of a rectangle by entering its length and 
@@ -88,6 +90,8 @@ Write a Java program with a class Rectangle that has two variables: length and w
 • In the main method, ask the user to enter length and width.
 • Print the area.
 • Use an if condition to check if the rectangle is a square.
+
+
 Case Study 2: Circle Area with Switch Menu
 Scenario:
 A mathematics teacher wants a program where students can choose between finding the area or 
@@ -103,6 +107,7 @@ Write a Java program with a class Circle that has one variable: radius.
 • Use a switch case:
 o Case 1: Print the area
 o Case 2: Print the circumference
+
 
 Date 23-09-2025   For the Third individual  assignment
 
